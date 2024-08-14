@@ -1,0 +1,6 @@
+@AminPotal_HostAddress = http://localhost:5104
+
+GET {{AminPotal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
